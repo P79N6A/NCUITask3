@@ -1,0 +1,2 @@
+serviceClass: com.netcracker.client.GenService
+path: 6E45CB1AE0B997C46FB3DB1A622FB603.gwt.rpc
